@@ -5,7 +5,6 @@ If you need help with Menu Stats, use the contact information below.
 ## Contact
 
 - Email: [ncy7572@gmail.com](mailto:ncy7572@gmail.com)
-- GitHub Issues: [github.com/ncy7572/Menu-Stats/issues](https://github.com/ncy7572/Menu-Stats/issues)
 
 ## App Information
 
@@ -29,7 +28,7 @@ No. Menu Stats reads system information locally on your device and does not coll
 
 ### How do I report a bug or request a feature?
 
-Send an email or open an issue on GitHub with:
+Send an email to  [ncy7572@gmail.com](mailto:ncy7572@gmail.com) with:
 
 - Your macOS version
 - Your Mac model
@@ -39,6 +38,5 @@ Send an email or open an issue on GitHub with:
 ## Links
 
 - [Privacy Policy](privacy.md)
-- [Project Home](https://github.com/ncy7572/Menu-Stats)
 
 Last updated: March 20, 2026
